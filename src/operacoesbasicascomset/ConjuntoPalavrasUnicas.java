@@ -40,7 +40,6 @@ public class ConjuntoPalavrasUnicas {
         conjuntoPalavrasUnicas.adicionarPalavra("Abobora");
         conjuntoPalavrasUnicas.removerPalavra("Mateus");
 
-
         conjuntoPalavrasUnicas.exibirPalavrasUnicas();
         System.out.println("Existe a palavra abobora? "+ conjuntoPalavrasUnicas.verificarPalavra("André"));
     }
